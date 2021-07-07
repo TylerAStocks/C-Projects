@@ -1,0 +1,5 @@
+.A is for apple
+.B is for boy
+.C is for cat
+.D is for dog
+.E is for elephant

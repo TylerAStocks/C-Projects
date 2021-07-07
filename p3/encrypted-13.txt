@@ -1,0 +1,5 @@
+.elppa rof si A
+.tac rof si C
+.yob rof si B
+.god rof si D
+.tnahpele rof si E
